@@ -22,6 +22,11 @@ Next, generate a new Maven project from the archetype
 
 > mvn archetype:generate -DarchetypeArtifactId=my-cmis-server-archetype -DarchetypeGroupId=org.apache.chemistry.opencmis.server -DarchetypeVersion=0.1.0-incubating-SNAPSHOT
 
+Last, run your OpenCMIS Server
+
+> cd ${artifactId}
+> mvn jetty:run
+
 For any other information, please refer to the following page
 
 http://incubator.apache.org/chemistry/how-to-build-a-server.html
