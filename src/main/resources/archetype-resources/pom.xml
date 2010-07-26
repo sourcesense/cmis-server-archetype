@@ -18,7 +18,7 @@
   <artifactId>${artifactId}</artifactId>
   <packaging>war</packaging>
   <version>${version}</version>
-  <name>my-cmis-server</name>
+  <name>cmis</name>
   <url>http://incubator.apache.org/chemistry</url>
 
   <properties>
