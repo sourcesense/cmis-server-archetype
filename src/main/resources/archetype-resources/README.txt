@@ -20,8 +20,8 @@ mvn jetty:run
 
 Check the following URLs
 
-http://localhost:8080/cmis/services/DiscoveryService
-http://localhost:8080/cmis/atom
+http://localhost:8080/cmis-server/services/DiscoveryService
+http://localhost:8080/cmis-server/atom
 
 To dig into the Java code, check the following classes
 
