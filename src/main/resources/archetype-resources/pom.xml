@@ -78,7 +78,6 @@
       <groupId>org.apache.chemistry.opencmis</groupId>
       <artifactId>chemistry-opencmis-server-support</artifactId>
       <version>${opencmisVersion}</version>
-      <type>pom</type>
     </dependency>
     <dependency>
       <groupId>org.apache.chemistry.opencmis</groupId>
